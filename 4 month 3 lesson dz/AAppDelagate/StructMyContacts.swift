@@ -5,4 +5,12 @@
 //  Created by Apple on 20.2.2024.
 //
 
-import Foundation
+import UIKit
+
+struct Contact {
+    var name: String
+    var phoneNumber: String
+    var image: UIImageView
+}
+
+
